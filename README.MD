@@ -79,7 +79,7 @@ Understanding Big O notation helps you:
 
 ## 📖 Further Learning
 
-- Big O Cheat Sheet: [Big O Notation - Know Thy Complexities!](https://www.bigocheatsheet.com/)
+- Big O Cheat Sheet [ENG] : [Big O Notation - Know Thy Complexities!](https://www.bigocheatsheet.com/)
 - Freecodecamp [ENG] : [Big O Notation: Why It Matters and Why It Doesn't](https://www.freecodecamp.org/news/big-o-notation-why-it-matters-and-why-it-doesnt-1674cfa8a23c/)
 - Backend Magang [IND] : [Big O Notation - Memahami Kompleksitas Algoritma dalam Pemrograman](https://www.youtube.com/watch?v=XgKfcZctwA8)
 
