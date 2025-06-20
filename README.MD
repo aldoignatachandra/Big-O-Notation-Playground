@@ -19,13 +19,15 @@ Big O notation characterizes functions according to their growth rates. Differen
 ## 🗂️ Project Structure
 
 ```
+├── golang/
 ├── javascript/
 │   ├── 1-O1_constant.js            # O(1) - Constant time example
 │   ├── 2-OlogN_binary_search.js    # O(log n) - Logarithmic time example
 │   ├── 3-On_linear_scan.js         # O(n) - Linear time example
 │   ├── 4-OnLogN_merge_sort.js      # O(n log n) - Linearithmic time example
 │   └── 5-On2_naive_pairs.js        # O(n²) - Quadratic time example
-├── info/                           # Visual resources
+├── php/
+├── info/                                           
 │   ├── big-o-notation-graph.png
 │   ├── big-o-notation-table_data_structure.png
 │   └── big-o-notation-array_sorting.png
