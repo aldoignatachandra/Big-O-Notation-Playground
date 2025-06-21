@@ -20,6 +20,11 @@ Big O notation characterizes functions according to their growth rates. Differen
 
 ```
 ├── golang/
+│   ├── 1-O1_constant.go            # O(1) - Constant time example
+│   ├── 2-OlogN_binary_search.go    # O(log n) - Logarithmic time example
+│   ├── 3-On_linear_scan.go         # O(n) - Linear time example
+│   ├── 4-OnLogN_merge_sort.go      # O(n log n) - Linearithmic time example
+│   └── 5-On2_naive_pairs.go        # O(n²) - Quadratic time example
 ├── javascript/
 │   ├── 1-O1_constant.js            # O(1) - Constant time example
 │   ├── 2-OlogN_binary_search.js    # O(log n) - Logarithmic time example
@@ -27,7 +32,12 @@ Big O notation characterizes functions according to their growth rates. Differen
 │   ├── 4-OnLogN_merge_sort.js      # O(n log n) - Linearithmic time example
 │   └── 5-On2_naive_pairs.js        # O(n²) - Quadratic time example
 ├── php/
-├── info/                                           
+│   ├── 1-O1_constant.php           # O(1) - Constant time example
+│   ├── 2-OlogN_binary_search.php   # O(log n) - Logarithmic time example
+│   ├── 3-On_linear_scan.php        # O(n) - Linear time example
+│   ├── 4-OnLogN_merge_sort.php     # O(n log n) - Linearithmic time example
+│   └── 5-On2_naive_pairs.php       # O(n²) - Quadratic time example
+├── info/
 │   ├── big-o-notation-graph.png
 │   ├── big-o-notation-table_data_structure.png
 │   └── big-o-notation-array_sorting.png
@@ -38,7 +48,9 @@ Big O notation characterizes functions according to their growth rates. Differen
 
 ### Prerequisites
 
-- Node.js (version 20 or higher)
+- Node.js (version 20 or higher) for JavaScript examples
+- PHP (version 8.1 or higher) for PHP examples
+- Go (version 1.20 or higher) for Go examples
 
 ## 🔍 How to Use the Playground
 
@@ -53,10 +65,19 @@ node javascript/4-OnLogN_merge_sort.js
 node javascript/5-On2_naive_pairs.js
 
 # Golang
-# ( Coming Soon )
+GO111MODULE=off go run golang/main.go o1
+GO111MODULE=off go run golang/main.go ologn
+GO111MODULE=off go run golang/main.go on
+GO111MODULE=off go run golang/main.go onlogn
+GO111MODULE=off go run golang/main.go on2
+GO111MODULE=off go run golang/main.go all
 
 # PHP ( Coming Soon )
-# ( Coming Soon )
+php php/1-O1_constant.php
+php php/2-OlogN_binary_search.php
+php php/3-On_linear_scan.php
+php php/4-OnLogN_merge_sort.php
+php php/5-On2_naive_pairs.php
 
 ```
 
