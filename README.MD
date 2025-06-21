@@ -20,11 +20,17 @@ Big O notation characterizes functions according to their growth rates. Differen
 
 ```
 ├── golang/
-│   ├── 1-O1_constant.go            # O(1) - Constant time example
-│   ├── 2-OlogN_binary_search.go    # O(log n) - Logarithmic time example
-│   ├── 3-On_linear_scan.go         # O(n) - Linear time example
-│   ├── 4-OnLogN_merge_sort.go      # O(n log n) - Linearithmic time example
-│   └── 5-On2_naive_pairs.go        # O(n²) - Quadratic time example
+│   ├── main.go                     # Main entry point for Go examples
+│   ├── 1-o1/                       # O(1) - Constant time
+│   │   └── 1-O1_constant.go
+│   ├── 2-ologn/                    # O(log n) - Logarithmic time
+│   │   └── 2-OlogN_binary_search.go
+│   ├── 3-on/                       # O(n) - Linear time
+│   │   └── 3-On_linear_scan.go
+│   ├── 4-onlogn/                   # O(n log n) - Linearithmic time
+│   │   └── 4-OnLogN_merge_sort.go
+│   └── 5-on2/                      # O(n²) - Quadratic time
+│       └── 5-On2_naive_pairs.go
 ├── javascript/
 │   ├── 1-O1_constant.js            # O(1) - Constant time example
 │   ├── 2-OlogN_binary_search.js    # O(log n) - Logarithmic time example
@@ -37,7 +43,7 @@ Big O notation characterizes functions according to their growth rates. Differen
 │   ├── 3-On_linear_scan.php        # O(n) - Linear time example
 │   ├── 4-OnLogN_merge_sort.php     # O(n log n) - Linearithmic time example
 │   └── 5-On2_naive_pairs.php       # O(n²) - Quadratic time example
-├── info/
+├── info/ 
 │   ├── big-o-notation-graph.png
 │   ├── big-o-notation-table_data_structure.png
 │   └── big-o-notation-array_sorting.png
