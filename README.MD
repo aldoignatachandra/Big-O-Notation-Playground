@@ -106,7 +106,7 @@ Understanding Big O notation helps you:
 3. Optimize Code : Identify and eliminate inefficient patterns in your code
 4. Technical Interviews : Discuss algorithm efficiency in a standardized way
 
-## 📖 Further Learning
+## 📖 Reference & Further Learning
 
 - Big O Cheat Sheet [ENG] : [Big O Notation - Know Thy Complexities!](https://www.bigocheatsheet.com/)
 - Freecodecamp [ENG] : [Big O Notation: Why It Matters and Why It Doesn't](https://www.freecodecamp.org/news/big-o-notation-why-it-matters-and-why-it-doesnt-1674cfa8a23c/)
