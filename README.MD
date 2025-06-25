@@ -43,7 +43,7 @@ Big O notation characterizes functions according to their growth rates. Differen
 │   ├── 3-On_linear_scan.php        # O(n) - Linear time example
 │   ├── 4-OnLogN_merge_sort.php     # O(n log n) - Linearithmic time example
 │   └── 5-On2_naive_pairs.php       # O(n²) - Quadratic time example
-├── info/ 
+├── info/
 │   ├── big-o-notation-graph.png
 │   ├── big-o-notation-table_data_structure.png
 │   └── big-o-notation-array_sorting.png
@@ -118,3 +118,5 @@ Created with 💻 by Ignata
 
 - 📂 GitHub: [Aldo Ignata Chandra](https://github.com/aldoignatachandra)
 - 💼 LinkedIn: [Aldo Ignata Chandra](https://linkedin.com/in/aldoignatachandra)
+
+---
