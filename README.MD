@@ -118,5 +118,3 @@ Created with 💻 by Ignata
 
 - 📂 GitHub: [Aldo Ignata Chandra](https://github.com/aldoignatachandra)
 - 💼 LinkedIn: [Aldo Ignata Chandra](https://linkedin.com/in/aldoignatachandra)
-
----
